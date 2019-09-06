@@ -123,6 +123,18 @@
     font-weight: 700!important;
 }
 
+.cuerpoModal p{
+    font-family: 'Open Sans', sans-serif!important;
+    font-weight: 400!important;
+    color: #373A3C
+}
+
+.modal-title{
+    font-family: 'Open Sans', sans-serif!important;
+    font-weight: 600!important;
+    color: #373A3C
+}
+
 @media (min-width: 576px) {
     .hero {
         margin-top: 3.75rem;
